@@ -1,16 +1,16 @@
 # Juan Cruz Rizzo
 
-### Quality Engineer · Software Engineer · AI Quality · Automation
+### Quality Engineer · Software Engineer · AI Quality · Test Automation
 
-I work at the intersection of **software quality, engineering, and automation** — helping teams build products that are reliable, observable, and resilient.
+I work at the intersection of **software quality, engineering, and automation**, helping teams build products that are reliable, observable, and resilient.
 
 My approach combines hands-on testing, technical investigation, and software development. I enjoy understanding systems end to end: from APIs and integrations to performance under load and the behavior of AI-powered applications.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-rzzlabs.com-111827?style=flat&logo=googlechrome&logoColor=white)](https://rzzlabs.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juancruzrizzo/) [![GitHub](https://img.shields.io/badge/GitHub-jcrizzo89-181717?style=flat&logo=github&logoColor=white)](https://github.com/jcrizzo89)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rzzlabs.com-111827?style=flat&logo=googlechrome&logoColor=white)](https://rzzlabs.com) [![GitHub](https://img.shields.io/badge/GitHub-jcrizzo89-181717?style=flat&logo=github&logoColor=white)](https://github.com/jcrizzo89)
 
 ---
 
-## What I work on
+## Focus areas
 
 - **Quality Engineering:** test strategy, functional and non-functional testing, risk analysis, and defect investigation.
 - **AI Quality Engineering:** validation of LLM-powered applications, streaming responses, tool calling, agents, RAG workflows, guardrails, and fallback behavior.
@@ -19,7 +19,7 @@ My approach combines hands-on testing, technical investigation, and software dev
 - **Observability & Tooling:** metrics, logs, dashboards, and utilities that improve engineering workflows.
 - **Software Development:** web applications, APIs, and integration-focused solutions.
 
-## Tools & technologies
+## Technologies
 
 **Automation & testing**  
 Python · Playwright · pytest · pytest-bdd · Gherkin · Allure · Postman · Selenium · Appium
@@ -35,18 +35,18 @@ Android · ADB · Git · GitHub · GitLab · CI/CD · Jira · Confluence · Test
 
 > Technologies reflect a mix of professional use, personal projects, and ongoing learning; they do not imply the same depth of experience in every tool.
 
-## Professional experience
+## Experience
 
 **QA Manual Performance & Resilience Analyst — Telecom Argentina**  
-Working on software quality with a focus on performance, resilience, API validation, and application behavior under variable conditions.
+Focused on software quality, performance, resilience, API validation, and application behavior under variable conditions.
 
-I also have experience contributing to AI quality initiatives, QA process design, and test automation. Professional examples are intentionally described at a high level to respect confidentiality.
+Additional experience includes AI quality initiatives, QA process design, and test automation. Professional examples are intentionally described at a high level to respect confidentiality.
 
 ## Certification
 
-- **ISTQB Certified Tester — Foundation Level** (June 2023)
+- **ISTQB Certified Tester — Foundation Level** · June 2023
 
-## Building beyond my day job
+## Beyond my day job
 
 **Co-founder at [RZZ Labs](https://rzzlabs.com)** — a software development and Quality Engineering studio focused on building and validating reliable digital products.
 
@@ -57,5 +57,4 @@ I also have experience contributing to AI quality initiatives, QA process design
 I'm interested in conversations around Quality Engineering, AI testing, automation, performance, and software development.
 
 - Portfolio: https://rzzlabs.com
-- LinkedIn: https://www.linkedin.com/in/juancruzrizzo/
 - GitHub: https://github.com/jcrizzo89
