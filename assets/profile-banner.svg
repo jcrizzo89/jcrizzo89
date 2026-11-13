@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="500" viewBox="0 0 1500 500" role="img" aria-labelledby="title desc">
+  <title id="title">Juan Cruz Rizzo — Engineering profile banner</title>
+  <desc id="desc">Dark technical banner with blue and violet geometric accents.</desc>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#2878ff"/>
+      <stop offset=".55" stop-color="#6557ff"/>
+      <stop offset="1" stop-color="#a855f7"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#5145ff" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#5145ff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#94a3b8" stroke-opacity=".08" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1500" height="500" fill="#0b0f17"/>
+  <rect width="1500" height="500" fill="url(#grid)"/>
+  <ellipse cx="1190" cy="245" rx="480" ry="350" fill="url(#glow)"/>
+  <g fill="none" stroke="url(#accent)" stroke-width="3" opacity=".9">
+    <path d="M1010 500 1260 70 1500 70"/>
+    <path d="M1125 500 1375 70"/>
+    <path d="M1240 500 1490 70"/>
+    <path d="M1000 410 1400 410 1500 310"/>
+    <path d="M1160 500 1160 350 1320 190 1500 190"/>
+  </g>
+  <g fill="none" stroke="#8b9bb4" stroke-opacity=".22" stroke-width="1.5">
+    <path d="M930 0V500M1050 0V500M1170 0V500M1290 0V500M1410 0V500"/>
+    <path d="M900 100H1500M900 220H1500M900 340H1500M900 460H1500"/>
+  </g>
+  <g transform="translate(1110 105)" fill="none" stroke="url(#accent)" stroke-width="15" stroke-linejoin="bevel" opacity=".95">
+    <path d="M20 230 145 15 270 230 395 15"/>
+    <path d="M145 15 270 230 395 15"/>
+  </g>
+  <circle cx="1110" cy="105" r="5" fill="#7c8cff"/>
+  <circle cx="1500" cy="120" r="5" fill="#a855f7"/>
+  <path d="M0 440H820" stroke="url(#accent)" stroke-width="2" opacity=".7"/>
+  <path d="M0 456H620" stroke="#64748b" stroke-width="1" opacity=".35"/>
+</svg>
