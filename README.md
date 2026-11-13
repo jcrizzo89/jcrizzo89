@@ -44,7 +44,30 @@ Additional experience includes AI quality initiatives, QA process design, and te
 
 ## Selected work
 
-Public repositories and personal projects are being curated to show implementation details, technical decisions, and individual contributions. Each project should clearly identify whether it is personal, academic, open source, or commercial.
+### [Agendify](https://agendify.me) — WhatsApp appointment management SaaS
+A multi-tenant scheduling platform for professionals and businesses, designed around WhatsApp conversations, with a web administration panel and client portal.
+
+**Repository:** [WA-CALENDAR-IABOT](https://github.com/jcrizzo89/WA-CALENDAR-IABOT)  
+**Stack:** Node.js · TypeScript · PostgreSQL · Prisma · Fastify · Vitest  
+**Focus:** SaaS architecture, tenant data isolation, messaging workflows, scheduling, and automated reminders.
+
+### [RZZ Labs](https://rzzlabs.com) — Software development & Quality Engineering
+Co-founded software development and Quality Engineering studio. The website presents the studio's services, approach, and capabilities.
+
+**Repository:** [rzz-labs-website](https://github.com/jcrizzo89/rzz-labs-website)  
+**Stack:** HTML · CSS · JavaScript
+
+### AguaLuz — Order management platform
+Frontend and backend repositories for a water distribution order-management system, covering operational workflows such as orders, customers, and distributors.
+
+**Repositories:** [Frontend](https://github.com/jcrizzo89/frontend) · [Backend](https://github.com/jcrizzo89/backend-Agualuz)  
+**Stack:** Angular 18 · TypeScript · Angular Material · NestJS · PostgreSQL
+
+### Madame Pastel — E-commerce experience
+A web application for a bakery, with a product catalog, shopping cart, administration panel, and WhatsApp-based order requests.
+
+**Repository:** [Madame-Pastel-Frontend](https://github.com/jcrizzo89/Madame-Pastel-Frontend)  
+**Stack:** React · Node.js · Express · MongoDB
 
 ## Certification
 
