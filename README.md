@@ -6,7 +6,7 @@ I help engineering teams build reliable software — and help businesses turn te
 
 My work combines **Quality Engineering, software development, automation, performance, resilience, and AI quality**. I enjoy understanding systems end to end: from requirements and APIs to integrations, production behavior, and user experience.
 
-[![Personal portfolio](https://img.shields.io/badge/Personal_Portfolio-Juan_Cruz_Rizzo-111827?style=flat&logo=githubpages&logoColor=white)](https://github.com/jcrizzo89) [![RZZ Labs](https://img.shields.io/badge/Studio-RZZ_Labs-635BFF?style=flat&logo=googlechrome&logoColor=white)](https://rzzlabs.com)
+[![Personal portfolio](https://img.shields.io/badge/Personal_Portfolio-Juan_Cruz_Rizzo-111827?style=flat&logo=githubpages&logoColor=white)](https://github.com/jcrizzo89) [![Agendify](https://img.shields.io/badge/Product-Agendify-0EA5E9?style=flat&logo=googlecalendar&logoColor=white)](https://agendify.me) [![RZZ Labs](https://img.shields.io/badge/Studio-RZZ_Labs-635BFF?style=flat&logo=googlechrome&logoColor=white)](https://rzzlabs.com)
 
 ---
 
@@ -65,4 +65,5 @@ At RZZ Labs, we are open to conversations about software development, test autom
 ### Connect
 
 - GitHub: https://github.com/jcrizzo89
+- Agendify: https://agendify.me
 - RZZ Labs: https://rzzlabs.com
