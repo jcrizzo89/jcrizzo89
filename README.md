@@ -3,7 +3,7 @@
   Focus: Quality Engineering, AI Quality, Test Automation & Software Engineering
 -->
 
-<h1 align="center">Juan Cruz Rizzo</h1>
+<p align="center">\n  <img src="assets/profile-banner.svg" alt="Juan Cruz Rizzo — Engineering banner" width="100%">\n</p>\n\n<h1 align="center">Juan Cruz Rizzo</h1>
 <p align="center">
   <strong>Quality Engineer · Software Engineer · AI Quality · Test Automation</strong>
 </p>
