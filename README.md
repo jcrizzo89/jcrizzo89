@@ -109,6 +109,17 @@ A web application for a bakery, with a product catalog, shopping cart, administr
 
 <sub>Tools listed represent a mix of professional use, personal projects and ongoing learning; they do not imply the same depth of experience in every technology.</sub>
 
+## GitHub activity
+
+<p align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=jcrizzo89&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B7CFF&icon_color=7C8CFF&text_color=C9D1D9&include_all_commits=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jcrizzo89&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B7CFF&text_color=C9D1D9&langs_count=6" alt="Most used programming languages" />
+</p>
+
+<p align="center">
+  <sub>Live cards based on public GitHub activity and repository language data. Language share reflects code volume, not proficiency.</sub>
+</p>
+
 ## Professional experience
 
 **QA Manual Performance & Resilience Analyst — Telecom Argentina**
