@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://rzzlabs.com"><img src="https://img.shields.io/badge/RZZ_Labs-Studio-6366F1?style=for-the-badge" alt="RZZ Labs"></a>
   <a href="https://agendify.me"><img src="https://img.shields.io/badge/Agendify-SaaS-0EA5E9?style=for-the-badge" alt="Agendify"></a>
-  <a href="https://www.linkedin.com/in/jcrizzo89"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/juancruzrizzo/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:rzzlabs.admin@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -94,7 +94,7 @@ Focused on software quality, performance, resilience, API validation, and applic
 
 <p align="center">
   <a href="https://github.com/jcrizzo89">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/jcrizzo89">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/juancruzrizzo/">LinkedIn</a> ·
   <a href="https://rzzlabs.com">RZZ Labs</a> ·
   <a href="https://agendify.me">Agendify</a> ·
   <a href="mailto:rzzlabs.admin@gmail.com">Email</a>
