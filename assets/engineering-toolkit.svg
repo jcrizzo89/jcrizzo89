@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="250" viewBox="0 0 1100 250" role="img" aria-labelledby="tk-title tk-desc">
+  <title id="tk-title">Engineering Toolkit Matrix</title>
+  <desc id="tk-desc">Four-column engineering toolkit covering Quality and Automation, Performance and Observability, Software Engineering, and Platforms and Delivery.</desc>
+  <rect width="1100" height="250" rx="14" fill="#0B1120"/>
+  <rect x="0.5" y="0.5" width="1099" height="249" rx="13.5" fill="none" stroke="#1E293B" stroke-width="1"/>
+
+  <!-- Column Dividers -->
+  <line x1="275" y1="24" x2="275" y2="226" stroke="#1E293B" stroke-width="1"/>
+  <line x1="550" y1="24" x2="550" y2="226" stroke="#1E293B" stroke-width="1"/>
+  <line x1="825" y1="24" x2="825" y2="226" stroke="#1E293B" stroke-width="1"/>
+
+  <!-- Column 1: Quality & Automation -->
+  <g transform="translate(28 36)">
+    <circle cx="6" cy="6" r="4" fill="#10B981"/>
+    <text x="18" y="10" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14" font-weight="700">Quality &amp; Automation</text>
+    <g transform="translate(0 34)" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12.5">
+      <text x="0" y="14">Playwright · Selenium</text>
+      <text x="0" y="42">Python · pytest</text>
+      <text x="0" y="70">Appium (Mobile)</text>
+      <text x="0" y="98">Postman · API Testing</text>
+      <text x="0" y="126">BDD / Gherkin · Vitest</text>
+      <text x="0" y="154">LLM &amp; RAG Validation</text>
+    </g>
+  </g>
+
+  <!-- Column 2: Performance & Observability -->
+  <g transform="translate(303 36)">
+    <circle cx="6" cy="6" r="4" fill="#6366F1"/>
+    <text x="18" y="10" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14" font-weight="700">Perf &amp; Observability</text>
+    <g transform="translate(0 34)" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12.5">
+      <text x="0" y="14">Grafana k6 (Load/Stress)</text>
+      <text x="0" y="42">Grafana · Loki</text>
+      <text x="0" y="70">Charles Proxy</text>
+      <text x="0" y="98">SQL · Query Analysis</text>
+      <text x="0" y="126">Latency &amp; Degradation</text>
+      <text x="0" y="154">Resilience &amp; Chaos</text>
+    </g>
+  </g>
+
+  <!-- Column 3: Software Engineering -->
+  <g transform="translate(578 36)">
+    <circle cx="6" cy="6" r="4" fill="#0EA5E9"/>
+    <text x="18" y="10" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14" font-weight="700">Software Engineering</text>
+    <g transform="translate(0 34)" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12.5">
+      <text x="0" y="14">TypeScript · JavaScript</text>
+      <text x="0" y="42">Node.js · Fastify</text>
+      <text x="0" y="70">React · Next.js · Angular</text>
+      <text x="0" y="98">PostgreSQL · Prisma</text>
+      <text x="0" y="126">MongoDB · Express</text>
+      <text x="0" y="154">REST APIs · Webhooks</text>
+    </g>
+  </g>
+
+  <!-- Column 4: Platforms & Delivery -->
+  <g transform="translate(853 36)">
+    <circle cx="6" cy="6" r="4" fill="#A855F7"/>
+    <text x="18" y="10" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14" font-weight="700">Platforms &amp; Delivery</text>
+    <g transform="translate(0 34)" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12.5">
+      <text x="0" y="14">Git · GitHub · GitLab</text>
+      <text x="0" y="42">CI/CD Pipelines</text>
+      <text x="0" y="70">Android</text>
+      <text x="0" y="98">Jira · Test Management</text>
+      <text x="0" y="126">ISTQB Foundation</text>
+      <text x="0" y="154">AI Agents &amp; Tooling</text>
+    </g>
+  </g>
+</svg>

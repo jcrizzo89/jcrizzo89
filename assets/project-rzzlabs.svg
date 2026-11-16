@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="240" viewBox="0 0 540 240" role="img" aria-labelledby="rzz-title rzz-desc">
+  <title id="rzz-title">RZZ Labs — Software &amp; Quality Engineering Studio</title>
+  <desc id="rzz-desc">Project card for RZZ Labs showing studio focus, engineering services, and core stack.</desc>
+  <defs>
+    <linearGradient id="rzz-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1120"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+    <linearGradient id="rzz-top" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6366F1"/>
+      <stop offset="100%" stop-color="#A855F7"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="540" height="240" rx="14" fill="url(#rzz-bg)"/>
+  <rect x="0.5" y="0.5" width="539" height="239" rx="13.5" fill="none" stroke="#1E293B" stroke-width="1"/>
+  <rect x="24" y="0" width="120" height="3" rx="1.5" fill="url(#rzz-top)"/>
+
+  <!-- Header -->
+  <text x="28" y="44" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="22" font-weight="700" letter-spacing="-0.02em">RZZ Labs</text>
+  <rect x="404" y="24" width="108" height="24" rx="12" fill="#312E81" fill-opacity="0.45" stroke="#818CF8" stroke-opacity="0.45" stroke-width="1"/>
+  <circle cx="418" cy="36" r="3.5" fill="#A855F7"/>
+  <text x="428" y="40" fill="#C7D2FE" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="600">CO-FOUNDER</text>
+
+  <text x="28" y="68" fill="#A5B4FC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="600">Software Development &amp; Quality Engineering Studio</text>
+
+  <!-- Description -->
+  <text x="28" y="100" fill="#CBD5E1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13.5">Helping organizations design, build, and validate reliable</text>
+  <text x="28" y="120" fill="#CBD5E1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13.5">digital products with quality baked in from day one.</text>
+
+  <!-- Focus -->
+  <text x="28" y="152" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5">FOCUS: QA strategy · Test automation · AI quality · Web apps</text>
+
+  <!-- Stack pills -->
+  <g transform="translate(28 178)" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="500">
+    <rect x="0" y="0" width="94" height="26" rx="6" fill="#1E293B"/>
+    <text x="12" y="17" fill="#E2E8F0">Playwright</text>
+
+    <rect x="102" y="0" width="86" height="26" rx="6" fill="#1E293B"/>
+    <text x="113" y="17" fill="#E2E8F0">TypeScript</text>
+
+    <rect x="196" y="0" width="76" height="26" rx="6" fill="#1E293B"/>
+    <text x="210" y="17" fill="#E2E8F0">Next.js</text>
+
+    <rect x="280" y="0" width="56" height="26" rx="6" fill="#1E293B"/>
+    <text x="296" y="17" fill="#E2E8F0">k6</text>
+
+    <rect x="344" y="0" width="86" height="26" rx="6" fill="#1E293B"/>
+    <text x="357" y="17" fill="#E2E8F0">AI Eval</text>
+  </g>
+</svg>
